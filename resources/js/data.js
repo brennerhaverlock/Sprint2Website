@@ -19,15 +19,15 @@ const data = [
     name: 'MK540 Advanced Wireless Keyboard and Mouse ',
     image: './resources/images/keyboard3.jpg',
     desc:
-      'Navigate and type smoothly with this Logitech Advanced wireless combo. Its ambidextrous contoured mouse with rubber grips provides a secure, comfortable hold, and the full-size keyboard has a palm rest and adjustable tilt legs for ergonomic extended use. ',
+      'Enhance your in-game performance with this HyperX Alloy Core RGB gaming keyboard. Its soft-touch keys are equipped with anti-ghosting functionality to prevent accidental keystrokes, and the dedicated media controls provide quick access to frequently used functions for seamless operation. ',
     price: 39.99,
   },
   {
     id: 4,
     name: 'HyperX - Alloy Core RGB Wired Gaming Membrane Keyboard ',
     image: './resources/images/keyboard4.jpg',
-    desc: 'To be calm is the highest achievement of the self.',
-    price: 5.99,
+    desc: 'Signature Mechanical Switch for Gaming: Razer Green switch technology provides a satisfying clicky sound with 50 G of actuation force, ideal for typing and gaming requiring the highest accuracy ',
+    price: 39.99,
   },
   {
     id: 5,
