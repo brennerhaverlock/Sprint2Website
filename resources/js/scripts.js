@@ -177,11 +177,3 @@ function updateCart(name, qty) {
     }
   }
 }
-addItem('Apple', 99);
-addItem('Orange', 1.29);
-showItems();
-
-removeItem('Apple', 1);
-removeItem('Orange', 1);
-
-showItems();
